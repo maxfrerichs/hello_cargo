@@ -1,0 +1,1 @@
+A small guessing game built in Rust to get into basic Rust programming concepts
